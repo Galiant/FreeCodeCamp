@@ -1,3 +1,5 @@
+# Check for Palindromes
+
 Return true if the given string is a palindrome. Otherwise, return false.
 
 A palindrome is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.
@@ -9,12 +11,12 @@ We'll pass strings with varying formats, such as "racecar", "RaceCar", and "race
 
 Remember to use Read-Search-Ask if you get stuck. Write your own code.
 
-## Here are some helpful links:
+### Here are some helpful links:
 
 + [String.replace()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
 + [String.toLowerCase()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase)
 
-## Task
+### Task
 
 + palindrome("eye") should return a boolean.
 + palindrome("eye") should return true.
@@ -28,7 +30,7 @@ Remember to use Read-Search-Ask if you get stuck. Write your own code.
 + palindrome("1 eye for of 1 eye.") should return false.
 + palindrome("0_0 (: /-\ :) 0-0") should return true.
 
-## Solution
+### Solution
 
 ```javascript
 function palindrome(str) {
