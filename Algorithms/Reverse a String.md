@@ -22,7 +22,7 @@ Remember to use Read-Search-Ask if you get stuck. Write your own code.
 + reverseString("Howdy") should become "ydwoH".
 + reverseString("Greetings from Earth") should return "htraE morf sgniteerG"
 
-### My Solution
+### Solution
 
 ```javascript
 function reverseString(str) {
