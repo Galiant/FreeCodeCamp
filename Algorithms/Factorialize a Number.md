@@ -20,6 +20,8 @@ Remember to use Read-Search-Ask if you get stuck. Write your own code.
 + factorialize(20) should return 2432902008176640000.
 + factorialize(0) should return 1.
 
+## My Solution
+
 ```javascript
 function factorialize(num) {
     // If the number is less than 0, reject it.
