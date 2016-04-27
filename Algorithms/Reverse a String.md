@@ -13,14 +13,14 @@ Remember to use Read-Search-Ask if you get stuck. Write your own code.
 + [Array.reverse()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse)
 + [Array.join()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
 
-## Task:
+## Task
 
 + reverseString("hello") should return a string.
 + reverseString("hello") should become "olleh".
 + reverseString("Howdy") should become "ydwoH".
 + reverseString("Greetings from Earth") should return "htraE morf sgniteerG"
 
-## My Solution:
+## My Solution
 
 ```javascript
 function reverseString(str) {
